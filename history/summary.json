@@ -4,17 +4,19 @@
     "url": "https://kushbhalodi.com",
     "icon": "https://icons.duckduckgo.com/ip3/kushbhalodi.com.ico",
     "slug": "kush-bhalodi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.34%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 94,
     "timeDay": 94,
     "timeWeek": 94,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   }
 ]
