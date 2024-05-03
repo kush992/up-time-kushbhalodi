@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 208,
-    "timeWeek": 181,
+    "timeDay": 163,
+    "timeWeek": 185,
     "timeMonth": 172,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipe.kushbhalodi.com.ico",
     "slug": "recipes-kush-bhalodi",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 4966,
-    "timeDay": 4445,
-    "timeWeek": 5901,
-    "timeMonth": 4966,
-    "timeYear": 4966,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 4829,
+    "timeDay": 977,
+    "timeWeek": 5503,
+    "timeMonth": 4829,
+    "timeYear": 4829,
     "dailyMinutesDown": {
       "2024-04-26": 27
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 158,
-    "timeWeek": 185,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 156,
+    "timeDay": 121,
+    "timeWeek": 183,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   }
 ]
