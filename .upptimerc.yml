@@ -9,11 +9,13 @@ sites:
     url: https://recipe.kushbhalodi.com
   - name: Grids KushBhalodi
     url: https://grids.kushbhalodi.com
+  - name: Pierogi Villa
+    url: https://pierogi-villa.kushbhalodi.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: statuses.kushbhalodi.com
+  cname: status.kushbhalodi.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kush Bhalodi
@@ -23,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/kush992
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
