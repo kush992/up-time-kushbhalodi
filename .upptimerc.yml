@@ -5,12 +5,12 @@ repo: up-time-kushbhalodi # The name of this repository
 sites:
   - name: KushBhalodi
     url: https://kushbhalodi.com
-  # - name: Recipes KushBhalodi
-    # url: https://recipe.kushbhalodi.com
-  # - name: Grids KushBhalodi
-    # url: https://grids.kushbhalodi.com
-  # - name: Pierogi Villa
-    # url: https://pierogi-villa.kushbhalodi.com
+  - name: Recipes KushBhalodi
+    url: https://recipe.kushbhalodi.com
+  - name: Grids KushBhalodi
+    url: https://grids.kushbhalodi.com
+  - name: Pierogi Villa
+    url: https://pierogi-villa.kushbhalodi.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
