@@ -5,6 +5,8 @@ repo: up-time-kushbhalodi # The name of this repository
 sites:
   - name: KushBhalodi
     url: https://kushbhalodi.com
+  - name: JobJourney
+    url: https://career.kushbhalodi.com
   - name: Recipes KushBhalodi
     url: https://recipe.kushbhalodi.com
   - name: Grids KushBhalodi
