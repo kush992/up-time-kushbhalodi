@@ -46,17 +46,17 @@
     "url": "https://recipe.kushbhalodi.com",
     "icon": "https://icons.duckduckgo.com/ip3/recipe.kushbhalodi.com.ico",
     "slug": "recipes-kush-bhalodi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "96.97%",
-    "uptimeMonth": "97.37%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "99.60%",
-    "time": 5540,
-    "timeDay": 7378,
-    "timeWeek": 6942,
-    "timeMonth": 6453,
-    "timeYear": 5572,
+    "time": 5548,
+    "timeDay": 7852,
+    "timeWeek": 7017,
+    "timeMonth": 6471,
+    "timeYear": 5581,
     "dailyMinutesDown": {
       "2025-06-09": 16,
       "2025-06-08": 38,
@@ -108,8 +108,7 @@
       "2025-02-13": 35,
       "2025-02-09": 7,
       "2025-02-08": 7,
-      "2025-02-07": 8,
-      "2025-02-06": 7
+      "2025-02-07": 8
     }
   },
   {
