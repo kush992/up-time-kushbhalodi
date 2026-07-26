@@ -3,9 +3,9 @@ owner: kush992 # Your GitHub organization or username, where this repository liv
 repo: up-time-kushbhalodi # The name of this repository
 
 sites:
-  - name: KushBhalodi
+  - name: KushBhalodi - Portfolio
     url: https://kushbhalodi.com
-  - name: JobJourney
+  - name: JobJourney - Job Application Tracker
     url: https://jobjourney.site
 
 status-website:
@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://img.kushbhalodi.com/images/kush-bhalodi-logo.png
   name: ''
-  introTitle: Monitor the status of kushbhalodi.com
+  introTitle: Availability of Kush Bhalodi products
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
